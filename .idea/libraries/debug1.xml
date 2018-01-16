@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="debug1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Test/app/build/intermediates/pre-dexed/debug/classes_ccf4992c7211852f601c24f379b0622533103dc6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test/app/build/intermediates/pre-dexed/debug/classes_9a44d94d81a8a1138e681fb86aa9d14a7a6baf12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test/app/build/intermediates/pre-dexed/debug/classes_d42c57eb5d68dabb1c8fedbb4c6686809db32088.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test/app/build/intermediates/pre-dexed/debug/classes_36b9cd221e34a72e1e504ee8adff24d8cf532efc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test/app/build/intermediates/pre-dexed/debug/classes_9302c2ce797d21ce896d1fa00e74f705c1b5b02e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test/app/build/intermediates/pre-dexed/debug/classes_b8c4e50620b67b68ccd704222b654c9e6733649a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test/app/build/intermediates/pre-dexed/debug/classes_f3922369930f0d0a124d59f4695dc99d5fc87f1f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test/app/build/intermediates/pre-dexed/debug/classes_56a0009c44bc4483c0077e33294dee02a2b8cb70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test/app/build/intermediates/pre-dexed/debug/classes_cc28d4f396befb151fe33a1b1d0464521790c651.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha7_65ca6778478c48ad786ceac67685868a105e3053.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test/app/build/intermediates/pre-dexed/debug/classes_e742b03409b49e524fbbc6c3c514a20a8d68c409.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_c0bab1294c1a219e5c2accaff817dd565e1c777f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test/app/build/intermediates/pre-dexed/debug/debug_77dd0cf791c7ff7a69e622c25dfbc5140d606bd3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

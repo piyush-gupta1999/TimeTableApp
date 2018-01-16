@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Home" />
+        <item
+            android:id="@+id/analysis"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Analysis" />
+        <item
+            android:id="@+id/leaderboard"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="LeaderBoard" />
+        <item
+            android:id="@+id/blocking"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Blocking" />
+    </group>
+
+</menu>
